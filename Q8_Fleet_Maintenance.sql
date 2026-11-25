@@ -1,6 +1,6 @@
 -- =====================================================================
 -- ICT371 Advanced Database | Question 8: Transport Fleet Maintenance
--- Student: Blessings Kyembe (202301658)
+-- Student: Collins Kalela (202403266)
 -- DBMS: PostgreSQL 14+ (pg_cron extension for part g)
 -- Run the whole file top to bottom; it can be re-run safely.
 -- Service rule: a vehicle is due when current_odometer - last_service_odometer >= 5000 km.
