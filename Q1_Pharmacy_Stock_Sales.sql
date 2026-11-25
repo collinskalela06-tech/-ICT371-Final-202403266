@@ -1,6 +1,6 @@
 -- =====================================================================
 -- ICT371 Advanced Database | Question 1: Pharmacy Stock and Daily Sales
--- Student: Blessings Kyembe (202301658)
+-- Student: collins kalela (202403266)
 -- DBMS: PostgreSQL 14+ (pg_cron extension for part g)
 -- Run the whole file top to bottom; it can be re-run safely.
 -- =====================================================================
