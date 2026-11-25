@@ -1,6 +1,6 @@
 -- =====================================================================
 -- ICT371 Advanced Database | Question 10: Scholarship Application Assessment
--- Student: Blessings Kyembe (202301658)
+-- Student: Collins kalela(202403266)
 -- DBMS: PostgreSQL 14+ (pg_cron extension for part g)
 -- Run the whole file top to bottom; it can be re-run safely.
 -- Eligibility: age 18-25 inclusive, monthly income <= K3,000, average mark >= 70.
